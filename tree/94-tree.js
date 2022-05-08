@@ -20,5 +20,4 @@
   }
   inorder(root)
   return res;
-  
 };
